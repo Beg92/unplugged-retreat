@@ -239,6 +239,17 @@ footer .copyright {
     margin: 20px 0;
 }
 
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row wrap;
+    background-image: url("'img/image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat #333;
+    background-position: center;
+}
+
 
 /* -------------------- Mobile Styles - Homepage -------------------- */
 
